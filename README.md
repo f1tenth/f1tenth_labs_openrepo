@@ -1,2 +1,2 @@
-# f1tenth_labs_openrepo
-Lab assignments for F1tenth course
+# F1TENTH labs template repos
+Please see each lab directory for assignment details.

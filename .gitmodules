@@ -1,0 +1,27 @@
+[submodule "lab1"]
+	path = lab1
+	url = https://github.com/f1tenth/f1tenth_lab1_template
+[submodule "lab2"]
+	path = lab2
+	url = https://github.com/f1tenth/f1tenth_lab2_template
+[submodule "lab3"]
+	path = lab3
+	url = https://github.com/f1tenth/f1tenth_lab3_template
+[submodule "lab4"]
+	path = lab4
+	url = https://github.com/f1tenth/f1tenth_lab4_template
+[submodule "lab5"]
+	path = lab5
+	url = https://github.com/f1tenth/f1tenth_lab5_template
+[submodule "lab6"]
+	path = lab6
+	url = https://github.com/f1tenth/f1tenth_lab6_template
+[submodule "lab7"]
+	path = lab7
+	url = https://github.com/f1tenth/f1tenth_lab7_template
+[submodule "lab8"]
+	path = lab8
+	url = https://github.com/f1tenth/f1tenth_lab8_template
+[submodule "lab9"]
+	path = lab9
+	url = https://github.com/f1tenth/f1tenth_lab9_template
