@@ -22,6 +22,3 @@
 [submodule "lab8"]
 	path = lab8
 	url = https://github.com/f1tenth/f1tenth_lab8_template
-[submodule "lab9"]
-	path = lab9
-	url = https://github.com/f1tenth/f1tenth_lab9_template
