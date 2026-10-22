@@ -26,6 +26,10 @@
 	path = 07_mpc_lab
 	url = https://github.com/f1tenth/f1tenth_lab7_template
 	branch = main
+[submodule "08_mppi_lab"]
+	path = 08_mppi_lab
+	url = https://github.com/f1tenth/f1tenth_lab8_template
+	branch = main
 [submodule "10_vision_lab"]
 	path = 10_vision_lab
 	url = https://github.com/f1tenth/f1tenth_lab9_template
