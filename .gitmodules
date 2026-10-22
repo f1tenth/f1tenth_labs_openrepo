@@ -1,24 +1,24 @@
-[submodule "lab1"]
-	path = lab1
+[submodule "01_ros_lab"]
+	path = 01_ros_lab
 	url = https://github.com/f1tenth/f1tenth_lab1_template
-[submodule "lab2"]
-	path = lab2
+[submodule "02_aeb_lab"]
+	path = 02_aeb_lab
 	url = https://github.com/f1tenth/f1tenth_lab2_template
-[submodule "lab3"]
-	path = lab3
+[submodule "03_wf_lab"]
+	path = 03_wf_lab
 	url = https://github.com/f1tenth/f1tenth_lab3_template
-[submodule "lab4"]
-	path = lab4
+[submodule "04_ftg_lab"]
+	path = 04_ftg_lab
 	url = https://github.com/f1tenth/f1tenth_lab4_template
-[submodule "lab5"]
-	path = lab5
+[submodule "05_pp_lab"]
+	path = 05_pp_lab
 	url = https://github.com/f1tenth/f1tenth_lab5_template
-[submodule "lab6"]
-	path = lab6
+[submodule "06_rrt_lab"]
+	path = 06_rrt_lab
 	url = https://github.com/f1tenth/f1tenth_lab6_template
-[submodule "lab7"]
-	path = lab7
+[submodule "07_mpc_lab"]
+	path = 07_mpc_lab
 	url = https://github.com/f1tenth/f1tenth_lab7_template
-[submodule "lab9"]
-	path = lab9
+[submodule "10_vision_lab"]
+	path = 10_vision_lab
 	url = https://github.com/f1tenth/f1tenth_lab9_template
