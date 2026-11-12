@@ -36,5 +36,5 @@
 	branch = main
 [submodule "10_vision_lab"]
 	path = 10_vision_lab
-	url = https://github.com/f1tenth/f1tenth_lab9_template
+	url = https://github.com/f1tenth/f1tenth_lab10_template
 	branch = main
